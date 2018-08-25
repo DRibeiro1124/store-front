@@ -4,43 +4,48 @@
         "intro": "Always a good laugh with these titles",
         "movies": [
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "Anchorman: The Legend of Ron Burgundy",
+                "plot": "Plot: Will Ferrel (Old School, Elf) is Ron Burgundy, a top-rated 1970's San Diego anchorman who believes women have a place in the newsroom - as long as they stick to covering fashion shows or late-breaking cooking stories. So when ron is told he'll be working with a bright young newswoman (Christina Applegate) who's beautiful, ambitious and smart enough to be more than eye candy, it's not just a clash of two TV people with really great hair - it's war! Filled with wicked wit and slapstick humor, Anchorman is the year's most wildly irreverent, must-see comedy hit!
+                Rated PG-13 by the Motion Picture Association of America.",
+                "price": "$3.99",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/6131.jpg",
+                "cast": "Will Ferrell, Steve Carell, David Koechner, Paul Rudd, Fred Willard, Christina Applegate"
             },
 
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "Super Troopers 2",
+                "plot": "Plot: Everyone's favorite law enforcement team is back by popular demand with the follow up to the cult comedy classic...SUPER TROOPERS. When a border dispute arises between the U.S. and Canada, Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area. Unconventional police work follows, and the result is…SUPER TROOPERS 2.
+                Rated R by the Motion Picture Association of America.",
+                "price": "$3.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/203382.jpg",
+                "cast": "Kevin Heffernan, Steve Lemme, Paul Soter, Erik Stolhanske, Marisa Coughlan, Tyler Labine, Jay Chandrasekhar, Rob Lowe, Hayes MacArthur, Will Sasso"
             },
 
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "Game Night",
+                "plot": "Plot: When a fictional murder-mystery game turns into a real kidnapping, hypercompetitive couple Max and Annie must lead their wacky and wildly unqualified group of game-night friends to rescue Max's brother in this terrific action comedy.
+                Rated R by the Motion Picture Association of America.",
+                "price": "$3.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/202784.jpg",
+                "cast": "Jason Bateman, Rachel McAdams"
             },
 
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "Despicable Me 3",
+                "plot": "Plot: ILLUMINATION, who brought audiences the worldwide blockbusters Despicable Me, Despicable Me 2 and Minions, continues the adventures of Gru, Lucy, their adorable daughters — Margo, Edith and Agnes — and the Minions. Joining Steve Carell and Kristen Wiig in Despicable Me 3 is Trey Parker as Balthazar Bratt, a former child star who's grown up to become obsessed with the character he played in the '80s, and proves to be Gru's most formidable nemesis to date.
+                Rated PG by the Motion Picture Association of America.",
+                "price":"$3.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/202778.jpg",
+                "cast": "Trey Parker, Kristen Wiig, Steve Coogan, Steve Carell, Miranda Cosgrove"
             },
 
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "Life Of The Party",
+                "plot": "Plot: When her husband suddenly dumps her, longtime dedicated housewife Deanna (Melissa McCarthy) turns regret into re-set by going back to college…landing in the same class and school as her daughter, who’s not entirely sold on the idea. Plunging headlong into the campus experience, the increasingly outspoken Deanna-now Dee Rock-embraces freedom, fun, and frat boys on her own terms, finding her true self in a senior year no one ever expected.
+                Rated PG-13 by the Motion Picture Association of America.",
+                "price":"$3.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/202793.jpg",
+                "cast": "Melissa McCarthy, Ben Falcone"
             }
 
         ]
@@ -50,43 +55,48 @@
         "intro": "Some of these movies may make you cry",
         "movies": [
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "The Yellow Birds",
+                "plot": "Plot: Against the explosive backdrop of the Iraq War, young soldiers Brandon Bartle (Alden Ehrenreich) and Daniel Murphy (Tye Sheridan) forge a deep bond of friendship. When tragedy strikes the platoon, one soldier must return home to face the hard truth behind the incident, and help a grieving mother (Jennifer Aniston) find peace. With a compelling mix of battle action and poignant drama, The Yellow Birds is an unforgettable movie whose power resonates long after the final frame.
+                Rated R by the Motion Picture Association of America.",
+                "price":"$3.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/204841.jpg",
+                "cast": "Jennifer Aniston, Alden Ehrenreich, Renee Willett, Toni Collette, Tye Sheridan, Jack Huston"
             },
 
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "God's Not Dead: A Light in Darkness",
+                "plot": "Plot: A church located on a state-university campus is burned down. The school's leadership uses the tragedy to push the church off campus, forcing its faltering pastor to reach out to his estranged lawyer brother for help as he confronts the community's anger towards him and his church.
+                Rated PG by the Motion Picture Association of America for Mature Theme, Thematic Elements, Violence.",
+                "price":"$3.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/203288.jpg",
+                "cast": "David A.R. White, John Corbett, Ted McGinley, Shane Harper, Jennifer Taylor, Samantha Boscarino, Tatum O'Neal, Gregory Alan Williams, Shwayze, Benjamin Onyango"
             },
 
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "Deepwater Horizon",
+                "plot": "Plot: Riveting docudrama about the Deepwater Horizon disaster, the 2010 oil-rig explosion that resulted in the largest offshore oil spill in U.S. history. The film depicts the challenges that the rig's crew faced as they fought for survival.
+                Rated PG-13 by the Motion Picture Association of America for prolonged intense disaster sequences and related disturbing images.",
+                "price":"$3.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/200082.jpg",
+                "cast": "Mark Wahlberg, Kurt Russell, John Malkovich, Gina Rodriguez, Dylan O'Brien"
             },
 
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "The Accountant",
+                "plot": "Plot: A math genius works as a financial consultant for criminal organizations in this intelligent thriller. While being investigated by the Treasury Department, he agrees to help an accounting clerk look into fraud at her company, but the assignment will prove far more dangerous than he could have ever anticipated.
+                Rated R by the Motion Picture Association of America for strong violence and language throughout.",
+                "price":"$3.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/200096.jpg",
+                "cast": "Ben Affleck, Anna Kendrick, J.K. Simmons, Jon Bernthal, Cynthia Addai-Robinson"
             },
 
             {
-                "title": "",
-                "description": "",
-                "price": "",
-                "cover": "",
-                "cast": ""
+                "title": "Shock and Awe",
+                "plot": "Plot: Based on true events, President George W. Bush makes a statement about Saddam Hussein's possession of weapons of mass destruction. Knight Ridder journalists question the American president's claims during the events that lead up to the Iraq War in 2003.
+                Rated R by the Motion Picture Association of America for Language, Sexual Situations.",
+                "price":"$3.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/205518.jpg",
+                "cast": "Woody Harrelson, Rob Reiner, Tommy Lee Jones, James Marsden, Milla Jovovich, Jessica Biel, Luke Tennie, Richard Schiff, Teri Wyble, Al Sapienza"
             }
 
         ]
@@ -98,40 +108,40 @@
         "movies": [
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             }
@@ -145,40 +155,40 @@
         "movies": [
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             }
@@ -192,40 +202,40 @@
         "movies": [
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             }
@@ -238,40 +248,40 @@
         "movies": [
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             },
 
             {
                 "title": "",
-                "description": "",
-                "price": "",
+                "plot": "",
+                "price":"$3.99",
                 "cover": "",
                 "cast": ""
             }
