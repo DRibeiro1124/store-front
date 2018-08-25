@@ -211,43 +211,48 @@
         "intro": "You may not sleep well tonight...",
         "movies": [
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "Gehenna: Where Death Lives",
+                "plot": "Plot: A group scouting locations on a remote island come across a cave-like structure on the property they want. Armed with cameras, they enter the cursed bunker that appears to be an old war structure, but horrifying secrets and mysteries await them inside.
+                Not Rated by the Motion Picture Association of America.",
+                "price":"$2.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/205526.jpg",
+                "cast": "Doug Jones, Katherine Wallace, Lance Henriksen, Patrick Gorman, Simon Phillips, Sean Sprawling, Justin Gordon, Eva Swan, Masashi Odate, George Kamea"
             },
 
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "Demons",
+                "plot": "Plot: In this disquieting horror film, a married couple running a bed-and-breakfast find themselves haunted by the ghost of the wife's younger sister, who died eight years earlier in a failed exorcism overseen by the husband.
+                Not Rated by the Motion Picture Association of America.",
+                "price":"$2.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/204225.jpg",
+                "cast": "Miles Doleac, Lindsay Anne, Willams Steven Brand"
             },
 
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "Blumhouse's Truth or Dare",
+                "plot": "Plot: An innocuous game among friends turns into a fight for survival when a group of friends playing "Truth or Dare" are mysteriously killed if they don't carry out the dare or say the truth. Now, the remaining players must find the person who started the twisted game before it is their turn to die.
+                Rated PG-13 by the Motion Picture Association of America for Disturbing Images, Sexuality, Thematic Elements, Violence.",
+                "price":"$2.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/204613.jpg",
+                "cast": "Lucy Hale, Tyler Posey, Tyler Garcia, Posey Violett Beane"
             },
 
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "The Bad Nun",
+                "plot": "Plot: A young woman in need of some relaxation spends a night at an isolated bed-and-breakfast that used to be a convent. Throughout the stay she is visited by a nun, who progressively begins to reveal her true colors as the night unfolds.
+                Not Rated by the Motion Picture Association of America.",
+                "price":"$2.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/205520.jpg",
+                "cast": "Becca Hirani, Lucy Chappell, Cassandra French, Georgia Woodthorpe, Patsy Prince"
             },
 
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "The Hollow Child",
+                "plot": "Plot: Samantha is a foster child traveling from foster home to foster home. Upon arriving at her most recent abode, she meets her new foster sister, Olivia. She leaves Olivia who enters into the woods and disappears. After three days, Olivia returns and things get rather peculiar.
+                Not Rated by the Motion Picture Association of America.",
+                "price":"$2.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/205529.jpg",
+                "cast": "Jessica McLeod, Hannah Cheramy, John Emmet Tracy"
             }
         ]
     },
@@ -257,43 +262,48 @@
         "intro": "Check these movies out today on sale!",
         "movies": [
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "The Big Lebowski",
+                "plot": "Plot: From the Academy Award-winning Coen brothers, The Big Lebowski is a hilariously quirky comedy about bowling, a severed toe, White Russians and a guy named...The Dude. Jeff "The Dude" Lebowski doesn’t want any drama in his life...heck, he can’t even be bothered with a job. But, he must embark on a quest with his bowling buddies after his rug is destroyed in a twisted case of mistaken identity. Starring Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, Philip Seymour Hoffman and John Turturro, experience the cultural phenomenon of The Dude in the "#1 cult film of all time!" (The Boston Globe)
+                Rated R by the Motion Picture Association of America.",
+                "price":"$1.99",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/4175.jpg",
+                "cast": "Jeff Bridges, John Goodman, Steve Buscemi, Julianne Moore, Peter Stormare, John Turturro, David Huddleston, Sam Elliott, Philip Seymour Hoffman, Flea, Ben Gazzara, David Thewlis, Tara Reid"
             },
 
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "Rocky",
+                "plot": "Plot: Sylvester Stallone became an instant superstar with his portrayal of the underdog boxer who gets a million-to-one shot at boxing's World Heavyweight crown...and comes out a winner.
+                Rated PG by the Motion Picture Association of America.",
+                "price":"$1.99",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/1328.jpg",
+                "cast": "Burt Young, Stan Shaw, Frank Stallone, Christopher Avildsen, David Thayer, Joe Frazier, Joe Spinell, Larry Carroll, Carl Weathers, Burgess Meredith"
             },
 
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "Braveheart",
+                "plot": "Plot: Braveheart, Mel Gibson's richly detailed, Academy Award®-winning saga of fierce combat, tender love and the will to risk it all for freedom, is now a digitally remastered, two-disc Special Collector's Edition DVD bursting with dynamic new special features. In an emotionally charged performance, Gibson is William Wallace, a bold Scotsman who uses the steel of his sword and the fire of his intellect to rally his countrymen to liberation from the English occupation of Scotland. Winner of five Oscars® -- Best Picture of 1995, Best Director (Gibson), Best Cinematography, Best Makeup and Best Sound Effects Editing -- "Braveheart" is "the most sumptuous and involving historical epic since 'Lawrence of Arabia'" (Rod Lurie, Los Angeles Magazine).
+                Rated R by the Motion Picture Association of America.",
+                "price":"$1.99",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/8461.jpg",
+                "cast": "Sophie Marceau, Patrick McGoohan, Mel Gibson, Catherine McCormack, Sean Lawlor"
             },
 
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "American Beauty",
+                "plot": "Plot: Lester decides to make a few changes in his life; the freer he gets, the happier he gets. But Lester is about to learn that the ultimate freedom comes at the ultimate price.
+                Rated R by the Motion Picture Association of America.",
+                "price":"$1.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/204123.jpg",
+                "cast": "Chris Cooper, Allison Janney, Annette Bening, Kevin Spacey, Peter Gallagher, Wes Bentley, Mena Suvari, Scott Bakula, Thora Birch, Sam Robards"
             },
 
             {
-                "title": "",
-                "plot": "",
-                "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "title": "Titanic",
+                "plot": "Plot: Leonardo DiCaprio and Oscar-nominatee Kate Winslet light up the screen as Jack and Rose, the young lovers who find one another on the maiden voyage of the "unsinkable" R.M.S. Titanic. But when the doomed luxury liner collides with an iceberg in the frigid North Atlantic, their passionate love affair becomes a thrilling race for survival. From acclaimed filmmaker James Cameron comes a tale of forbidden love and courage in the face of disaster that triumphs as a true cinematic masterpiece.
+                Rated PG-13 by the Motion Picture Association of America.",
+                "price":"$1.99",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/6860.jpg",
+                "cast": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher"
             }
         ]
     }
