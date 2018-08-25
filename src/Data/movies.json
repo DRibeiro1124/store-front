@@ -107,42 +107,47 @@
         "intro": "These titles are really exciting!",
         "movies": [
             {
-                "title": "",
-                "plot": "",
+                "title": "Avengers: Infinity War",
+                "plot": "Plot: The Avengers and all of their partners unite to assemble their power in order to fight the necessary battle against their biggest collective enemy, Thanos, before he can wreak his havoc across the entire world.
+                Rated PG-13 by the Motion Picture Association of America for Action Violence, Crude Humor, Language, Sci-Fi Violence.",
                 "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/203219.jpg",
+                "cast": "Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Zoe Saldana"
             },
 
             {
-                "title": "",
-                "plot": "",
+                "title": "Rampage",
+                "plot": "Plot: A primatologist strives to rescue his beloved and once-peaceful albino gorilla. After an evil genetic experiment goes awry, the gorilla and two other gigantic mutated animals run amok in downtown Chicago
+                Rated PG-13 by the Motion Picture Association of America for Brief Strong Language, Crude Humor, Sequences of Disturbing Violence.",
                 "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/202792.jpg",
+                "cast": "Dwayne Johnson, Naomie Harris, Malin Akerman, Jake Lacy, Jeffrey Dean Morgan, Joe Manganiello, P.J. Byrne, Marley Shelton, Jack Quaid, Breanne Hill"
             },
 
             {
-                "title": "",
-                "plot": "",
+                "title": "The Magnificent Seven (2016)",
+                "plot": "Plot: In this high-octane remake of the classic 1960 oater of the same name (itself a Western remake of "The Seven Samurai"), seven gunslingers protect a small town from a mining tycoon and his goons, who plan to seize the residents' land by force.
+                Rated PG-13 by the Motion Picture Association of America for extended and intense sequences of Western violence, and for historical smoking, some language and suggestive material.",
                 "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/10745.jpg",
+                "cast": "Denzel Washington, Chris Pratt, Ethan Hawke, Vincent D'Onofrio, Byung-hun Lee"
             },
 
             {
-                "title": "",
-                "plot": "",
+                "title": "Captain America: Civil War",
+                "plot": "Plot: Former teammates Iron Man and Captain America clash over a proposal that would make the Avengers accountable to government oversight. Soon, the rest of the Marvel heroes take sides in the conflict in this thrillingly epic comic-book adventure.
+                Rated PG-13 by the Motion Picture Association of America for extended sequences of violence, action and mayhem.",
                 "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/8166.jpg",
+                "cast": "Chris Evans, Robert Downey, Scarlett Johansson, Sebastian Stan, Anthony Mackie"
             },
 
             {
-                "title": "",
-                "plot": "",
+                "title": "Jurassic World",
+                "plot": "Plot: In this thrilling fourth installment of the "Jurassic Park" franchise, two young brothers visit an aunt who's an executive at Jurassic World, a theme park populated with genetically resurrected dinosaurs. But chaos erupts when a newly created dino escapes its enclosure, forcing the park's animal behaviorist to save the day.
+                Rated PG-13 by the Motion Picture Association of America for intense sequences of science-fiction violence and peril.",
                 "price":"$3.99",
-                "cover": "",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/7563.jpg",
                 "cast": ""
             }
 
@@ -154,43 +159,48 @@
         "intro": "Here are some good o'l classic films",
         "movies": [
             {
-                "title": "",
-                "plot": "",
+                "title": "Forrest Gump (1994)",
+                "plot": "Plot: Stupid is as stupid does, says Forrest Gump (played by Tom Hanks in an Oscar-winning performance) as he discusses his relative level of intelligence with a stranger while waiting for a bus. Despite his sub-normal IQ, Gump leads a truly charmed life, with a ringside seat for many of the most memorable events of the second half of the 20th century. Entirely without trying, Forrest teaches Elvis Presley to dance, becomes a football star, meets John F. Kennedy, serves with honor in Vietnam, meets Lyndon Johnson, speaks at an anti-war rally at the Washington Monument, hangs out with the Yippies, defeats the Chinese national team in table tennis, meets Richard Nixon, discovers the break-in at the Watergate, opens a profitable shrimping business, becomes an original investor in Apple Computers, and decides to run back and forth across the country for several years. Meanwhile, as the remarkable parade of his life goes by, Forrest never forgets Jenny (Robin Wright), the girl he loved as a boy, who makes her own journey through the turbulence of the 1960s and 1970s that is far more troubled than the path Forrest happens upon. Featured alongside Tom Hanks are Sally Field as Forrest's mother; Gary Sinise as his commanding officer in Vietnam; Mykelti Williamson as his ill-fated Army buddy who is familiar with every recipe that involves shrimp; and the special effects artists whose digital magic place Forrest amidst a remarkable array of historical events and people.
+                Rated PG-13 by the Motion Picture Association of America.",
                 "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/6324.jpg",
+                "cast": "Tom Hanks, Robin Wright, Haley Joel Osment, Mykelti Williamson, Sally Field, Gary Sinise"
             },
 
             {
-                "title": "",
-                "plot": "",
+                "title": "Good Will Hunting",
+                "plot": "Plot: A true motion picture phenomenon, this triumphant story was nominated for 9 Academy Awards® -- winning Oscars for Robin Williams (Best Supporting Actor) and hot newcomers Matt Damon and Ben Affleck (Best Original Screenplay). The most brilliant mind at America's top university isn't a student ... he's the kid who cleans the floors! Will Hunting (Damon) is a headstrong, working-class genius who's failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor (Williams), who might be the only man who can reach him! With acclaimed performances from Academy Award®- nominee Minnie Driver (GROSSE POINTE BLANK) and Ben Affleck (ARMAGEDDON) -- you'll find GOOD WILL HUNTING a powerful and unforgettable movie experience!
+                Rated R by the Motion Picture Association of America.",
                 "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/3117.jpg",
+                "cast": "Matt Damon, Robin Williams, Ben Affleck"
             },
 
             {
-                "title": "",
-                "plot": "",
+                "title": "Saving Private Ryan",
+                "plot": "Plot: Steven Spielberg directed this powerful, realistic re-creation of WWII's D-day invasion and the immediate aftermath. The story opens with a prologue in which a veteran brings his family to the American cemetery at Normandy, and a flashback then joins Capt. John Miller (Tom Hanks) and GIs in a landing craft making the June 6, 1944, approach to Omaha Beach to face devastating German artillery fire. This mass slaughter of American soldiers is depicted in a compelling, unforgettable 24-minute sequence. Miller's men slowly move forward to finally take a concrete pillbox. On the beach littered with bodies is one with the name "Ryan" stenciled on his backpack. Army Chief of Staff Gen. George C. Marshall (Harve Presnell), learning that three Ryan brothers from the same family have all been killed in a single week, requests that the surviving brother, Pvt. James Ryan (Matt Damon), be located and brought back to the United States. Capt. Miller gets the assignment, and he chooses a translator, Cpl. Upham (Jeremy Davis), skilled in language but not in combat, to join his squad of right-hand man Sgt. Horvath (Tom Sizemore), plus privates Mellish (Adam Goldberg), Medic Wade (Giovanni Ribisi), cynical Reiben (Edward Burns) from Brooklyn, Italian-American Caparzo (Vin Diesel), and religious Southerner Jackson (Barry Pepper), an ace sharpshooter who calls on the Lord while taking aim. Having previously experienced action in Italy and North Africa, the close-knit squad sets out through areas still thick with Nazis. After they lose one man in a skirmish at a bombed village, some in the group begin to question the logic of losing more lives to save a single soldier. The film's historical consultant is Stephen E. Ambrose, and the incident is based on a true occurance in Ambrose's 1994 bestseller D-Day: June 6, 1944.
+                Rated R by the Motion Picture Association of America.",
                 "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/1475.jpg",
+                "cast": "Tom Hanks, Tom Sizemore, Matt Damon, Adam Goldberg, Barry Pepper, Max Martini, Edward Burns"
             },
 
             {
-                "title": "",
-                "plot": "",
+                "title": "Gladiator",
+                "plot": "Plot: A man robbed of his name and his dignity strives to win them back, and gain the freedom of his people, in this epic historical drama from director Ridley Scott. In the year 180, the death of emperor Marcus Aurelius (Richard Harris) throws the Roman Empire into chaos. Maximus (Russell Crowe) is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus (Joaquin Phoenix) ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders. Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences. His battle skills serve him well, and he becomes one of the most famous and admired men to fight in the Colosseum. Determined to avenge himself against the man who took away his freedom and laid waste to his family, Maximus believes that he can use his fame and skill in the ring to avenge the loss of his family and former glory. As the gladiator begins to challenge his rule, Commodus decides to put his own fighting mettle to the test by squaring off with Maximus in a battle to the death. Gladiator also features Derek Jacobi, Connie Nielsen, Djimon Hounsou, and Oliver Reed, who died of a heart attack midway through production.
+                Rated R by the Motion Picture Association of America.",
                 "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/1345.jpg",
+                "cast": "Russell Crowe, Joaquin Phoenix, Djimon Hounsou, Oliver Reed, Derek Jacobi, Connie Nielsen"
             },
 
             {
-                "title": "",
-                "plot": "",
+                "title": "Apollo 13",
+                "plot": "Plot: Stranded 205,000 miles from Earth in a crippled spacecraft, astronauts Jim Lovell (Tom Hanks), Fred Haise (Bill Paxton) and Jack Swigert (Kevin Bacon) fight a desperate battle to survive. Meanwhile, at Mission Control, astronaut Ken Mattingly (Gary Sinise), flight director Gene Kranz (Ed Harris) and a heroic ground crew race against time - and the odds - to bring them home.
+                Rated PG by the Motion Picture Association of America.",
                 "price":"$3.99",
-                "cover": "",
-                "cast": ""
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/2867.jpg",
+                "cast": "Tom Hanks, Bill Paxton, Kevin Bacon"
             }
 
         ]
