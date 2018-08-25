@@ -1,0 +1,235 @@
+{
+    "comedy":   {
+        "title": "Comedy Movies",
+        "intro": "Always a good laugh with these titles",
+        "movies": [
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            }
+
+        ]
+    },
+    "Drama":   {
+        "title": "Drama",
+        "intro": "Some of these movies may make you cry",
+        "movies": [
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            }
+
+        ]
+    },
+
+    "Action":   {
+        "title": "Action Movies",
+        "intro": "These titles are really exciting!",
+        "movies": [
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            }
+
+        ]
+    },
+
+    "Classics":   {
+        "title": "Classic Movies",
+        "intro": "Here are some good o'l classic films",
+        "movies": [
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            }
+
+        ]
+    },
+
+    "Horror":   {
+        "title": "Horror",
+        "intro": "You may not sleep well tonight...",
+        "movies": [
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            }
+        ]
+    }
+}
+
