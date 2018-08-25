@@ -230,6 +230,52 @@
                 "cast": ""
             }
         ]
+    },
+
+    "Featured Films":   {
+        "title": "Feature Films",
+        "intro": "Check these movies out today on sale!",
+        "movies": [
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            },
+
+            {
+                "title": "",
+                "description": "",
+                "price": "",
+                "cover": "",
+                "cast": ""
+            }
+        ]
     }
 }
 
