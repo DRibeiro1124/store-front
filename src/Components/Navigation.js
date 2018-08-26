@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
+import logo from '../images/blockbuster.jpg'
 
 class Navigation extends Component {
     render() {
+    
         return (
             <div>
                 <nav className="nav-bar">

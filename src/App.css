@@ -11,7 +11,7 @@ font-family: 'Architects Daughter', cursive;
 }
 
 .App-header {
-  background-color: #02185a;
+  background-color: dodgerblue;
   height: 200px;
   padding: 20px;
   padding: 15px;
@@ -21,10 +21,12 @@ font-family: 'Architects Daughter', cursive;
   display: flex;
   justify-content: center;
   border: 3px solid #f2ce55;
-  font-family: 'Ultra', serif;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 25px;
   color: #f2ce55;
+  background: #02185a;
 }
+
 
 .creation {
   display: flex;
@@ -48,6 +50,11 @@ table {
   width: 100%;
 }
 
+.genre {
+  color:#f2ce55;
+  font-size: 20px;
+}
+
 th {
   text-align: center;
   font-family: 'Righteous', cursive;
@@ -62,7 +69,8 @@ text-align: center;
 
 .movie-title {
   height: 25px;
-  font-family: 'Righteous', cursive;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 20px;
   color: white;
 }
 
@@ -71,6 +79,7 @@ text-align: center;
   display: flex;
   justify-content: center;
   border: 5px solid #f2ce55;
+  background: #02185a;
 }
 
 .bottom-container  {
@@ -78,6 +87,7 @@ text-align: center;
   display: flex;
   justify-content: center;
   border: 5px solid #f2ce55;
+  background: #02185a;
 }
 
 .nav-bar {
@@ -88,3 +98,4 @@ text-align: center;
   margin: 33px;
   font-family: 'Righteous', cursive;
 }
+

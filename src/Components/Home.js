@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
+import movies from '../Data/movies.json'
 
 class Home extends Component {
+
+    componentDidMount () {
+        console.log(movies)
+    }
+
+
     render() {
         return (
             <div>
