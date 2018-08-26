@@ -258,13 +258,13 @@
     },
 
     "Featured Films":   {
-        "title": "Feature Films",
+        "title": "Movies on Sale",
         "intro": "Check these movies out today on sale!",
         "movies": [
             {
                 "title": "The Big Lebowski",
                 "plot": "Plot: From the Academy Award-winning Coen brothers, The Big Lebowski is a hilariously quirky comedy about bowling, a severed toe, White Russians and a guy named...The Dude. Jeff "The Dude" Lebowski doesn’t want any drama in his life...heck, he can’t even be bothered with a job. But, he must embark on a quest with his bowling buddies after his rug is destroyed in a twisted case of mistaken identity. Starring Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, Philip Seymour Hoffman and John Turturro, experience the cultural phenomenon of The Dude in the "#1 cult film of all time!" (The Boston Globe)
-                Rated R by the Motion Picture Association of America.",
+                 Rated R by the Motion Picture Association of America.",
                 "price":"$1.99",
                 "cover": "https://images.redbox.com/Images/EPC/boxartvertical/4175.jpg",
                 "cast": "Jeff Bridges, John Goodman, Steve Buscemi, Julianne Moore, Peter Stormare, John Turturro, David Huddleston, Sam Elliott, Philip Seymour Hoffman, Flea, Ben Gazzara, David Thewlis, Tara Reid"
@@ -273,7 +273,7 @@
             {
                 "title": "Rocky",
                 "plot": "Plot: Sylvester Stallone became an instant superstar with his portrayal of the underdog boxer who gets a million-to-one shot at boxing's World Heavyweight crown...and comes out a winner.
-                Rated PG by the Motion Picture Association of America.",
+                 Rated PG by the Motion Picture Association of America.",
                 "price":"$1.99",
                 "cover": "https://images.redbox.com/Images/EPC/boxartvertical/1328.jpg",
                 "cast": "Burt Young, Stan Shaw, Frank Stallone, Christopher Avildsen, David Thayer, Joe Frazier, Joe Spinell, Larry Carroll, Carl Weathers, Burgess Meredith"
@@ -282,7 +282,7 @@
             {
                 "title": "Braveheart",
                 "plot": "Plot: Braveheart, Mel Gibson's richly detailed, Academy Award®-winning saga of fierce combat, tender love and the will to risk it all for freedom, is now a digitally remastered, two-disc Special Collector's Edition DVD bursting with dynamic new special features. In an emotionally charged performance, Gibson is William Wallace, a bold Scotsman who uses the steel of his sword and the fire of his intellect to rally his countrymen to liberation from the English occupation of Scotland. Winner of five Oscars® -- Best Picture of 1995, Best Director (Gibson), Best Cinematography, Best Makeup and Best Sound Effects Editing -- "Braveheart" is "the most sumptuous and involving historical epic since 'Lawrence of Arabia'" (Rod Lurie, Los Angeles Magazine).
-                Rated R by the Motion Picture Association of America.",
+                 Rated R by the Motion Picture Association of America.",
                 "price":"$1.99",
                 "cover": "https://images.redbox.com/Images/EPC/boxartvertical/8461.jpg",
                 "cast": "Sophie Marceau, Patrick McGoohan, Mel Gibson, Catherine McCormack, Sean Lawlor"
@@ -291,19 +291,71 @@
             {
                 "title": "American Beauty",
                 "plot": "Plot: Lester decides to make a few changes in his life; the freer he gets, the happier he gets. But Lester is about to learn that the ultimate freedom comes at the ultimate price.
-                Rated R by the Motion Picture Association of America.",
+                 Rated R by the Motion Picture Association of America.",
                 "price":"$1.99",
                 "cover":"https://images.redbox.com/Images/EPC/boxartvertical/204123.jpg",
                 "cast": "Chris Cooper, Allison Janney, Annette Bening, Kevin Spacey, Peter Gallagher, Wes Bentley, Mena Suvari, Scott Bakula, Thora Birch, Sam Robards"
             },
 
             {
+                "title": "Pulp Fiction",
+                "plot": "Plot: Critics and audiences worldwide hailed PULP FICTION as the star-studded picture that redefined cinema in the 20th Century! Writer/director Quentin Tarantino (Academy Award Winner -- Best Original Screenplay, 1994) delivers an unforgettable cast of characters -- including a pair of low-rent hit men (John Travolta and Samuel L. Jackson), their boss's sexy wife (Uma Thurman), and a desperate prizefighter (Bruce Willis) -- in a wildly entertaining and exhilarating motion picture adventure that both thrills and amuses!
+                 Rated R by the Motion Picture Association of America.",
+                "price":"$1.99",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/8538.jpg",
+                "cast": "Uma Thurman, Samuel L. Jackson, John Travolta"
+            }
+        ]
+    },
+
+    "Fan Favorites":   {
+        "title": "Fan Favorites",
+        "intro": "Our most popular movies!!!",
+        "movies": [
+            {
                 "title": "Titanic",
                 "plot": "Plot: Leonardo DiCaprio and Oscar-nominatee Kate Winslet light up the screen as Jack and Rose, the young lovers who find one another on the maiden voyage of the "unsinkable" R.M.S. Titanic. But when the doomed luxury liner collides with an iceberg in the frigid North Atlantic, their passionate love affair becomes a thrilling race for survival. From acclaimed filmmaker James Cameron comes a tale of forbidden love and courage in the face of disaster that triumphs as a true cinematic masterpiece.
-                Rated PG-13 by the Motion Picture Association of America.",
-                "price":"$1.99",
+                 Rated PG-13 by the Motion Picture Association of America.",
+                "price":"$4.99",
                 "cover": "https://images.redbox.com/Images/EPC/boxartvertical/6860.jpg",
                 "cast": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher"
+            },
+
+            {
+                "title": "The Matrix",
+                "plot": "Plot: Have you ever had a dream that you were so sure was real? What if you couldn't awaken? How would you know the difference between dream and reality? When a beautiful stranger (Carrie Ann Moss) leads computer hacker Neo (Keanu Reeves) to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence. Neo joins legendary and dangerous rebel warrior Morpheus (Lawrence Fishburne) in the battle to destroy the illusion enslaving humanity. Now, every move, every second, every thought becomes a fight to stay alive--to escape The Matrix.
+                Rated R by the Motion Picture Association of America.",
+                "price":"$4.99",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/1591.jpg",
+                "cast": "Keanu Reeves, Carrie-Anne Moss, Laurence Fishburne, Hugo Weaving, Joe Pantoliano"
+            },
+
+            {
+                "title": "Old School",
+                "plot": "Plot: Before you can say wild and wet wrestling, Frank The Tank (Will Ferrell, Saturday Night Live), Mitch (Luke Wilson, Legally Blonde) and Beanie (Vince Vaughn, Swingers) have their own frat raging with out-of-control antics, But when things get too wild, the dean sets out to shut them down.
+                Rated R by the Motion Picture Association of America.",
+                "price":"$4.99",
+                "cover":"https://images.redbox.com/Images/EPC/boxartvertical/204158.jpg",
+                "cast": "Luke Wilson, Will Ferrell, Vince Vaughn, Jeremy Piven, Ellen Pompeo, Juliette Lewis, Leah Remini"
+            },
+
+            {
+                "title": "Catch Me If You Can",
+                "plot": " Play Trailer
+                Plot: Frank didn't go to flight school...Frank didn't go to medical school...Frank didn't go to law school...because Frank’s still in high school! Inspired by the true story of a brilliant young master of deception and the FBI agent hot on his trail. Directed by Steven Spielberg and starring Leonardo DiCaprio and Tom Hanks. Frank W. Abagnale, Jr. successfully passes himself off as a pilot, a lawyer and a doctor – all before his 21st birthday!
+                Rated PG-13 by the Motion Picture Association of America.",
+                "price":"$4.99",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/1362.jpg",
+                "cast": "Leonardo DiCaprio, Tom Hanks, Nathalie Baye, Martin Sheen, Christopher Walken"
+            },
+
+            {
+                "title": "Major League",
+                "plot": "Plot: She’s beautiful, smart, goal-oriented, and she just inherited the Cleveland Indians. Unfortunately, she wants to move the franchise to Miami, and a losing season is her only ticket to Florida.
+                Rated R by the Motion Picture Association of America.",
+                "price":"$4.99",
+                "cover": "https://images.redbox.com/Images/EPC/boxartvertical/3504.jpg",
+                "cast": "Tom Berenger, Charlie Sheen, Corbin Bernsen"
             }
         ]
     }

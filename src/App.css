@@ -1,28 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Cinzel|Kaushan+Script|Luckiest+Guy|Righteous|Ultra');
+font-family: 'Righteous', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Ultra', serif;
+font-family: 'Architects Daughter', cursive;
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.App-header {
+  background-color: #02185a;
+  height: 200px;
+  padding: 20px;
+  padding: 15px;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
+.intro-container {
+  display: flex;
+  justify-content: center;
+  border: 3px solid #f2ce55;
+  font-family: 'Ultra', serif;
+  font-size: 25px;
+  color: #f2ce55;
+}
+
+.creation {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color:#f2ce55;
+  margin: 1.5px;
+  font-family: 'Cinzel', serif;
+  font-size: 10px;
+}
+.creator {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color:#f2ce55;
+  margin: 1.5px;
+  font-family: 'Cinzel', serif;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  font-size: 20px;
+}
+
+td {
+padding: 1em;
+font-family: 'Cinzel', serif;
+text-align: center;
+}
+
+.movie-title {
+  height: 25px;
+  font-family: 'Righteous', cursive;
   color: white;
 }
 
-.App-title {
-  font-size: 1.5em;
+.top-container  {
+  margin: 3em;
+  display: flex;
+  justify-content: center;
+  border: 5px solid #f2ce55;
 }
 
-.App-intro {
-  font-size: large;
+.bottom-container  {
+  margin: 3em;
+  display: flex;
+  justify-content: center;
+  border: 5px solid #f2ce55;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.nav-bar {
+  color: #f2ce55;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  margin: 33px;
+  font-family: 'Righteous', cursive;
 }
