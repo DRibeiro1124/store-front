@@ -11,6 +11,7 @@ class Home extends Component {
     render() {
         return (
             <div>
+                
                 <header className="featured-film">
                     <div className="featured-film-img">
                         <img src="https://images.redbox.com/Images/EPC/boxartvertical/6860.jpg" alt="feature" />
