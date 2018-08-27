@@ -232,7 +232,7 @@
         ]
     },
 
-    "Featured Films":   {
+    "Movies on Sale":   {
         "title": "Movies on Sale",
         "intro": "Check these movies out today on sale!",
         "movies": [
@@ -278,14 +278,14 @@
         ]
     },
 
-    "Fan Favorites":   {
-        "title": "Fan Favorites",
+    "Feature of the week":   {
+        "title": "Feature",
         "intro": "Our most popular movies!!!",
         "movies": [
             {
                 "title": "Titanic",
-                "plot": "Leonardo DiCaprio and Oscar-nominatee Kate Winslet light up the screen as Jack and Rose, the young lovers who find one another on the maiden voyage of the 'unsinkable' R.M.S. Titanic. But when the doomed luxury liner collides with an iceberg in the frigid North Atlantic, their passionate love affair becomes a thrilling race for survival. From acclaimed filmmaker James Cameron comes a tale of forbidden love and courage in the face of disaster that triumphs as a true cinematic masterpiece",
-                "price":"$4.99",
+                "plot": "Leonardo DiCaprio and Oscar-nominee Kate Winslet light up the screen as Jack and Rose, the young lovers who find one another on the maiden voyage of the 'unsinkable' R.M.S. Titanic. But when the doomed luxury liner collides with an iceberg in the frigid North Atlantic, their passionate love affair becomes a thrilling race for survival. From acclaimed filmmaker James Cameron comes a tale of forbidden love and courage in the face of disaster that triumphs as a true cinematic masterpiece",
+                "price":"Free",
                 "cover": "https://images.redbox.com/Images/EPC/boxartvertical/6860.jpg",
                 "cast": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher"
             },
@@ -293,7 +293,7 @@
             {
                 "title": "The Matrix",
                 "plot": "Have you ever had a dream that you were so sure was real? What if you couldn't awaken? How would you know the difference between dream and reality? When a beautiful stranger (Carrie Ann Moss) leads computer hacker Neo (Keanu Reeves) to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence. Neo joins legendary and dangerous rebel warrior Morpheus (Lawrence Fishburne) in the battle to destroy the illusion enslaving humanity. Now, every move, every second, every thought becomes a fight to stay alive--to escape The Matrix",
-                "price":"$4.99",
+                "price":"Free",
                 "cover": "https://images.redbox.com/Images/EPC/boxartvertical/1591.jpg",
                 "cast": "Keanu Reeves, Carrie-Anne Moss, Laurence Fishburne, Hugo Weaving, Joe Pantoliano"
             },
@@ -301,7 +301,7 @@
             {
                 "title": "Old School",
                 "plot": "Before you can say wild and wet wrestling, Frank The Tank (Will Ferrell, Saturday Night Live), Mitch (Luke Wilson, Legally Blonde) and Beanie (Vince Vaughn, Swingers) have their own frat raging with out-of-control antics, But when things get too wild, the dean sets out to shut them down",
-                "price":"$4.99",
+                "price":"Free",
                 "cover":"https://images.redbox.com/Images/EPC/boxartvertical/204158.jpg",
                 "cast": "Luke Wilson, Will Ferrell, Vince Vaughn, Jeremy Piven, Ellen Pompeo, Juliette Lewis, Leah Remini"
             },
@@ -309,7 +309,7 @@
             {
                 "title": "Catch Me If You Can",
                 "plot": "Frank didn't go to flight school...Frank didn't go to medical school...Frank didn't go to law school...because Frank’s still in high school! Inspired by the true story of a brilliant young master of deception and the FBI agent hot on his trail. Directed by Steven Spielberg and starring Leonardo DiCaprio and Tom Hanks. Frank W. Abagnale, Jr. successfully passes himself off as a pilot, a lawyer and a doctor – all before his 21st birthday!",
-                "price":"$4.99",
+                "price":"Free",
                 "cover": "https://images.redbox.com/Images/EPC/boxartvertical/1362.jpg",
                 "cast": "Leonardo DiCaprio, Tom Hanks, Nathalie Baye, Martin Sheen, Christopher Walken"
             },
@@ -317,7 +317,7 @@
             {
                 "title": "Major League",
                 "plot": "She’s beautiful, smart, goal-oriented, and she just inherited the Cleveland Indians. Unfortunately, she wants to move the franchise to Miami, and a losing season is her only ticket to Florida",
-                "price":"$4.99",
+                "price":"Free",
                 "cover": "https://images.redbox.com/Images/EPC/boxartvertical/3504.jpg",
                 "cast": "Tom Berenger, Charlie Sheen, Corbin Bernsen"
             }

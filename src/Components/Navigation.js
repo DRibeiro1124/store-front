@@ -1,21 +1,21 @@
 import React, { Component } from 'react';
-import logo from '../images/blockbuster.jpg'
+
 
 class Navigation extends Component {
     render() {
     
         return (
             <div>
-                <nav className="nav-bar">
-                    <span>Home</span>
-                    <span>Comedy</span>
-                    <span>Drama</span>
-                    <span>Action</span>
-                    <span>Classic</span>
-                    <span>Horror</span>
-                    <span>Movies on Sale</span>
-                    <span>Whole Catalog</span>
-                </nav>
+                <div className="nav-container">
+                    <div className="nav nav1">Home</div>
+                    <div className="nav nav2">Comedy</div>
+                    <div className="nav nav3">Drama</div>
+                    <div className="nav nav4">Action</div>
+                    <div className="nav nav5">Classic</div>
+                    <div className="nav nav6">Horror</div>
+                    <div className="nav nav7">Movies on Sale</div>
+                    <div className="nav nav8">All Movies</div>
+                </div>
             </div>
         );
     }
